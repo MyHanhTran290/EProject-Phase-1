@@ -115,10 +115,10 @@ This will build and start all services in separate containers.
 
 ### 4. Accessing the Services
 
-- **API Gateway**: http://localhost:3000 (or configured port)
-- **Auth Service**: http://localhost:4000
-- **Product Service**: http://localhost:5000
-- **Order Service**: http://localhost:6000
+- **API Gateway**: http://localhost:3003
+- **Auth Service**: http://localhost:3000
+- **Product Service**: http://localhost:3001
+- **Order Service**: http://localhost:3002
 
 All requests should go through the API Gateway.
 
